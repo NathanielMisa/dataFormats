@@ -1,0 +1,43 @@
+clientDevices:
+  computers:
+  - addressing-method: DHCP
+    hostname: mikes-Iphone
+    ip-address: 172.16.0.34
+    location: Auckland
+  - addressing-method: DHCP
+    hostname: emilys laptop
+    ip-address: 172.16.2.24
+    location: Auckland
+networkDevices:
+  routers:
+  - hostname: mainRouter-akl
+    ip-address: 100.100.0.2
+    location: Auckland
+  - hostname: mainRouter-wlg
+    ip-address: 100.2.3.7
+    location: Wellington
+  - hostname: mainRouter-chc
+    ip-address: 20.3.213.8
+    location: Auckland
+  switches:
+  - hostname: switch1-akl
+    ip-address: 172.16.0.2
+    location: Auckland
+  - hostname: switch2-akl
+    ip-address: 172.16.0.3
+    location: Auckland
+  - hostname: switch3-akl
+    ip-address: 172.16.0.4
+    location: Auckland
+  - hostname: switch1-wlg
+    ip-address: 172.16.1.2
+    location: Wellington
+  - hostname: switch2-wlg
+    ip-address: 172.16.2.2
+    location: Wellington
+  - hostname: switch1-chc
+    ip-address: 172.16.3.2
+    location: Christchurch
+  - hostname: switch2-chc
+    ip-address: 172.16.3.2
+    location: Christchurch

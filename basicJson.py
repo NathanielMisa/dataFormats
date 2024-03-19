@@ -35,7 +35,7 @@ def addNetworkDevice(detailObject, deviceType, data):
 def main():  #this is where the user can change the script to get their desired results
     myData = readJson()
     
-    getSwitch(myData, "auckland")
+    getSwitch(myData, "Auckland")
     
     newRouter = {
         "hostname": "router1-ham",

@@ -62,12 +62,14 @@
             {
                 "hostname": "mikes-Iphone",
                 "ip-address": "172.16.0.34",
-                "addressing-method": "DHCP"
+                "addressing-method": "DHCP",
+                "location": "Auckland"
             },
             {
                 "hostname": "emilys laptop",
                 "ip-address": "172.16.2.24",
-                "addressing-method": "DHCP"
+                "addressing-method": "DHCP",
+                "location": "Auckland"
             }
         ]
 
